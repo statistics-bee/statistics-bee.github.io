@@ -11,7 +11,7 @@ website:
       - about.qmd
 
   page-footer: "Site Designed by Ethan Marzban using Quarto; ©2023"
-  favicon: "Images/Logos_Icons/logo.png"
+  favicon: "Images/Logos_Icons/favicon.png"
 
 format:
   html:
