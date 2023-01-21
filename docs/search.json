@@ -7,8 +7,15 @@
     "text": "First Annual Statistics Bee\n\nSaturday, April 8, 2023 at 11am  University of California, Santa Barbara\n\n\nWelcome to the official webpage of the Statistics Bee! Modelled after MIT’s Integration Bee, this event is designed to test the probabilistic prowess of contestants. Here you can find more information about the Bee including Rules, Regulations, and an Application Form. We hope you can attend, either as a contestant or an audience member!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "Pages/apply.html",
+    "href": "Pages/apply.html",
+    "title": "Apply",
+    "section": "",
+    "text": "We’d love to have you apply! The application process is fairly straightforward: please fill out the Google Form linked below, and further instructions will be sent to you upon receipt of your form."
+  },
+  {
+    "objectID": "Pages/about.html",
+    "href": "Pages/about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"

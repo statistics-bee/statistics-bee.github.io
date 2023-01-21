@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Pages/about.qmd
+        text: About
+      - href: Pages/apply.qmd
+        text: Apply
 
   page-footer: "Site Designed by Ethan Marzban using Quarto; ©2023"
   favicon: "Images/Logos_Icons/favicon.png"
