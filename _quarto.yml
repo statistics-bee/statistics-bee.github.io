@@ -10,11 +10,11 @@ website:
         text: Home
       - about.qmd
 
+  page-footer: "Site Designed by Ethan Marzban using Quarto; ©2023"
+  favicon: "Images/Logos_Icons/logo.png"
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
