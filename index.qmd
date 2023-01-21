@@ -2,7 +2,7 @@
 title: ""
 ---
 
-![](Images/main.png)
+![](Images/Logos_Icons/main.png)
 
 # **First Annual Statistics Bee**
 
