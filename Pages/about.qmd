@@ -2,8 +2,19 @@
 title: "About"
 ---
 
-About this site
+A full handbook of rules and regulations pertaining to the Bee can be found here. 
 
-```{r}
-1 + 1
-```
+\
+
+# Qualification Round
+
+All interested applicants must first undergo the Qualification Exam, which is currently scheduled for **Date and Time TBD**. The Examination will take the form of a 5-10 question exam, designed to ensure contestants are adequately prepared to participate in the Bee. Though there are no formal prerequisites for entry, preparation equivalent to PSTAT 120B mastery (Mathematical Statistics) is recommended. \
+
+A sample Qualification Exam will be posted shortly. 
+
+\
+
+# The Bee
+
+Only the top scorers of the Qualification Exam will be invited to continue to the main portion of the Bee (though all are welcome to attend the Bee as audience members!)
+
