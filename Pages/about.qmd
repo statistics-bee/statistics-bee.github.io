@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-A full handbook of rules and regulations pertaining to the Bee can be found here. 
+A full handbook of rules and regulations pertaining to the Bee can be found <a href = "https://bit.ly/bee23-handbook" target = "_blank">here</a>.
 
 \
 
